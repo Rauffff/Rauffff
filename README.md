@@ -7,7 +7,7 @@ Arkadaşlar buraya arapça rusça yazılar yazıp havalı olmaya çalışmıcam 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauffff&show_icons=true&theme=dark)]
 
-![](https://komarev.com/ghpvc/?username=your-github-Ruaffff&color=lightgrey)
+!(https://komarev.com/ghpvc/?username=your-github-Ruaffff&color=lightgrey)
 
 ## Discord Profilim
 
